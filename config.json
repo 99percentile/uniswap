@@ -1,0 +1,17 @@
+{
+    "PoolA": {
+        "eth": 100,
+        "dai": 300,
+        "swap_fee": 0.003
+    },
+    "PoolB": {
+        "eth": 501,
+        "dai": 1200,
+        "swap_fee": 0.003
+    },
+    "PoolC": {
+        "eth": 401,
+        "dai": 1200,
+        "swap_fee": 0.003
+    }
+}
